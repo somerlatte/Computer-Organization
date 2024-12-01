@@ -1,1 +1,1 @@
-Computer Organization Assignments
+Computer Management Assignments
